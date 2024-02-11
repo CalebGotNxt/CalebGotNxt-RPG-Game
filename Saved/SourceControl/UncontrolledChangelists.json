@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Projects/RPG_Game/Content/Blueprints/BPC_PlayerStats.uasset",
+				"D:/Unreal Projects/RPG_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Projects/RPG_Game/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Unreal Projects/RPG_Game/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
 				"D:/Unreal Projects/RPG_Game_Git/Content/UI/WB_HUD.uasset",
 				"D:/Unreal Projects/RPG_Game_Git/Content/Blueprints/BPC_PlayerStats.uasset",
 				"D:/Unreal Projects/RPG_Game_Git/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
