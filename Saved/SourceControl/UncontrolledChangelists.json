@@ -30,6 +30,9 @@
 				"D:/Unreal Projects/RPG_Game/Content/Audio/Grunts-Hits/Death1.uasset",
 				"D:/Unreal Projects/RPG_Game/Content/Audio/Grunts-Hits/Death2.uasset",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 92f6e1ed2b6d44a5133a5a0becfd49b6a6ffbede
 				"D:/Unreal Projects/RPG_Game/Content/Audio/Grunts-Hits/MS_KnifeStab.uasset",
 				"D:/Unreal Projects/RPG_Game/Content/Characters/RPG_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
 				"D:/Unreal Projects/RPG_Game/Content/Blueprints/BP_Dummy.uasset",
@@ -60,6 +63,7 @@
 				"D:/Unreal Projects/RPG_Game/Content/Sword/Sword.uasset",
 				"D:/Unreal Projects/RPG_Game/Content/Sword/textures/M_Sword.uasset",
 				"D:/Unreal Projects/RPG_Game/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+<<<<<<< HEAD
 				"D:/Unreal Projects/RPG_Game/Content/Sword/textures/Sword_Base_Color.uasset",
 				"D:/Unreal Projects/RPG_Game/Content/Sword/textures/Sword_Metallic.uasset",
 				"D:/Unreal Projects/RPG_Game/Content/Sword/textures/Sword_Normal_DirectX.uasset",
@@ -83,6 +87,8 @@
 				"D:/Unreal Projects/RPG_Game/Content/Hit_Reacts/HitReact_Right.uasset",
 =======
 >>>>>>> parent of 92f6e1e (Added new sounds and updated UI along with implemting a new combat system!)
+=======
+>>>>>>> 92f6e1ed2b6d44a5133a5a0becfd49b6a6ffbede
 				"D:/Unreal Projects/RPG_Game_Git/Content/UI/WB_HUD.uasset",
 				"D:/Unreal Projects/RPG_Game_Git/Content/Blueprints/BPC_PlayerStats.uasset",
 				"D:/Unreal Projects/RPG_Game_Git/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
